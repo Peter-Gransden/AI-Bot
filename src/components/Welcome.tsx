@@ -4,10 +4,5 @@ export const Welcome: React.FC = () => (
     <p>
       Fuck Off
     </p>
-    <p>
-      <a className="underline" href="https://github.com/ascorbic/daneel#readme">
-        Piss off LOL
-      </a>
-    </p>
   </div>
 );
