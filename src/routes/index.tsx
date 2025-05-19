@@ -66,9 +66,9 @@ export default function Index() {
                     LOL 🤖{" "}
                     <a
                       className="underline"
-                      href="https://github.com/ascorbic/daneel"
+                      href="https://lol-ai.netlify.app/"
                     >
-                      Daneel
+                      Shit
                     </a>
                   </p>
                 </div>
